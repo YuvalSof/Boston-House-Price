@@ -1,6 +1,7 @@
 # Boston-House-Price
-Range Against the Machine - Boston House Price Prediction
+
 Range Against the Machine Case 1: The Model That Outsmarted AutoML - Because It Understood the Neighborhood
+
 Before getting down to business with model building, I took a step back to reflect on the business.
 Using PCA as a quick pause to explore the urban market dynamics behind the principal components and applying business reasoning before doing any modeling laid the groundwork for feature engineering that’s more than just math.
  
