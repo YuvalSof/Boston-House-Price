@@ -4,8 +4,8 @@ Range Against the Machine Case 1: The Model That Outsmarted AutoML - Because It 
 
 Before getting down to business with model building, I took a step back to reflect on the business.
 Using PCA as a quick pause to explore the urban market dynamics behind the principal components and applying business reasoning before doing any modeling laid the groundwork for feature engineering that’s more than just math.
- 
-Illustration generated with OpenAI's DALL·E
+
+By: Yuval soffer
 
 Recently, I was officially assigned by the Massachusetts Institute of Technology to re-examine the Boston Housing dataset in light of emerging ML technologies.
 (Yes, I deserve a career in branding or PR just for phrasing it like that - but technically, it’s true.)
